@@ -32,7 +32,7 @@ del /f /s /q “%userprofile%\Local Settings\Temp\*.*”　　
 
 del /f /s /q “%userprofile%\recent\*.*”　　
 
-echo 清除系统LJ完成！　　
+echo 清除系统垃圾完成！　　
 
 echo. & pause
 del %0
